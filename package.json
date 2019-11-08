@@ -1,6 +1,6 @@
 {
   "name": "df9",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "DF9 is a UI libiray",
   "main": "index.js",
   "scripts": {
